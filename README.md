@@ -797,7 +797,6 @@ carbon fixation restoration
 
 6. Global Change Biology — Microbial necromass as an important source of soil organic carbon  
    https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14781
-````
 
 
 ■関連リンク
