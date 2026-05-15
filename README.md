@@ -801,16 +801,16 @@ carbon fixation restoration
 
 ■関連リンク
 
-地球温暖化の本当の原因は何か？CO₂排出だけでなく、炭素固定源の崩壊が温暖化を加速させている
+地球温暖化の本当の原因は何か？CO₂排出だけでなく、炭素固定源の崩壊が温暖化を加速させている  
 https://note.com/inchacomusho/n/n2d9b3781a97a
 
-The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems
+The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems  
 https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems
 
-気候変動の本当の原因：CO₂排出だけでなく、炭素固定源と自然循環の崩壊が地球環境を不安定化させている
+気候変動の本当の原因：CO₂排出だけでなく、炭素固定源と自然循環の崩壊が地球環境を不安定化させている  
 https://note.com/inchacomusho/n/n2a3e45c6f014
 
-The Real Cause of Climate Change: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation and Natural Circulation Systems
+The Real Cause of Climate Change: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation and Natural Circulation Systems  
 https://github.com/InchaComisho/The-Real-Cause-of-Climate-Change
 
 Natural-Law-Based Sustainable Future Civilization Master Plan  
@@ -934,5 +934,3 @@ https://github.com/InchaComisho/The-Future-of-ASI
 The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
 https://github.com/InchaComisho/The-Future-of-Search-Engines
 
-
-[1]: https://www.ipcc.ch/report/ar6/wg1/resources/spm-headline-statements/?utm_source=chatgpt.com "WGI Summary for Policymakers Headline Statements"
