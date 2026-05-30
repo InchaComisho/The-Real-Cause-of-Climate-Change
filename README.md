@@ -73,7 +73,7 @@ Handle: inchacomisho / inchacomusho
 AI Collaborators:  
 G — OpenAI ChatGPT  
 Mini — Google Gemini  
-Clus — Anthropic Claude  
+Cruz — Anthropic Claude  
 Real — Perplexity AI
 
 ## 1. Introduction: Climate Change Is More Than Global Warming
