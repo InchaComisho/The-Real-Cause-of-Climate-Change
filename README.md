@@ -798,6 +798,16 @@ carbon fixation restoration
 6. Global Change Biology — Microbial necromass as an important source of soil organic carbon  
    https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14781
 
+---
+
+## Narrative Companion
+
+> *Speculative fiction — not a scientific claim or engineering specification. CO₂ reduction remains necessary and is not contradicted by this work.*
+
+- **[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)** *(speculative fiction companion)*  
+  Dramatises the causal model developed here: CO₂ as both cause and symptom, with carbon fixation collapse and natural circulation failure as the missing layer in mainstream climate discourse.
+
+---
 
 ■関連リンク
 
