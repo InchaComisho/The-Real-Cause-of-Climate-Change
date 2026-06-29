@@ -746,15 +746,6 @@ Climate change is not only caused by CO₂ emissions. This article explains how 
 
 ---
 
-## Narrative Companion
-
-> *Speculative fiction — not a scientific claim or engineering specification. CO₂ reduction remains necessary and is not contradicted by this work.*
-
-- **[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)** *(speculative fiction companion)*  
-  Dramatises the causal model developed here: CO₂ as both cause and symptom, with carbon fixation collapse and natural circulation failure as the missing layer in mainstream climate discourse.
-
----
-
 ## Related Links
 
 ### Climate Change and Carbon Fixation Systems
@@ -820,7 +811,7 @@ Publicly active around natural law philosophy, Earth circulation regeneration, a
 
 ## License
 
-**Fully Open**
+CC BY 4.0
 
 This material is an open resource for climate change, carbon fixation restoration, natural circulation recovery, Natural Complementation Science, Direct Planetary Cooling, and Artificial Wisdom. It may be freely used, translated, modified, redistributed, and commercialized.
 
@@ -834,24 +825,6 @@ climate change, real cause of climate change, climate change causes, climate cha
 
 ## Hashtags
 
----
-
-## Author
-
-Master / inchacomusho / InchaComisho
-
-An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
-Founder and advocate of the academic framework of Natural Complementary Science.  
-Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
-
----
-
-## License
-
-CC BY 4.0
-
-This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
-Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
 #ClimateChange  
 #GlobalWarming  
 #ClimateCrisis  
