@@ -2,6 +2,8 @@
 
 **Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## The Real Cause of Climate Change
 
 **An integrated climate-causality model that includes the collapse of carbon fixation systems, carbon absorption systems, water circulation, soils, forests, oceans, wetlands, and microbial circulation — not CO₂ emissions alone**

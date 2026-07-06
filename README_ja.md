@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## The Real Cause of Climate Change
 
 **CO₂排出だけではなく、炭素固定源・炭素吸収系・水循環・土壌・森林・海洋・湿地・微生物循環の崩壊を含む統合的気候因果モデル**
