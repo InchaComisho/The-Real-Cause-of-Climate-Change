@@ -755,13 +755,11 @@ CO₂を減らすことから
 ### 気候変動・炭素固定源
 
 - 地球温暖化の本当の原因は何か？CO₂排出だけでなく、炭素固定源の崩壊が温暖化を加速させている  
-  https://note.com/inchacomusho/n/n2d9b3781a97a
 
 - The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems  
   https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems
 
 - 気候変動の本当の原因：CO₂排出だけでなく、炭素固定源と自然循環の崩壊が地球環境を不安定化させている  
-  https://note.com/inchacomusho/n/n2a3e45c6f014
 
 - The Real Cause of Climate Change  
   https://github.com/InchaComisho/The-Real-Cause-of-Climate-Change
@@ -795,10 +793,8 @@ CO₂を減らすことから
   https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan
 
 - 自然法則に基づく持続的未来文明マスタープラン  
-  https://note.com/inchacomusho/n/n24cdb7a6774c
 
 - 六つの理（自然法則・調和・循環・構造・秩序・和）  
-  https://note.com/inchacomusho/n/n8448430591c1
 
 ---
 
